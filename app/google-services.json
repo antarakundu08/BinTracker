@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206877615601",
+    "firebase_url": "https://garbagecollector-ec485.firebaseio.com",
+    "project_id": "garbagecollector-ec485",
+    "storage_bucket": "garbagecollector-ec485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206877615601:android:67c83645d37d21c926d050",
+        "android_client_info": {
+          "package_name": "com.example.garbagecollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206877615601-gb4kinpolbe1vofm8n35oap67bvnvndc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garbagecollector",
+            "certificate_hash": "6fdb7797601810b87356daf4ab91463a3f3fa57a"
+          }
+        },
+        {
+          "client_id": "206877615601-jfpcs3963vi34qos7271655jnl6a4aaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAp7r8edZgNXEoZSgCMnZJcictLQROsKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206877615601-jfpcs3963vi34qos7271655jnl6a4aaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
