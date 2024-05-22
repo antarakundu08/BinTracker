@@ -1,4 +1,4 @@
-# GarbageCollector
+# BinTracker
 SERVICES AND TECH USED: 
 1) Firebase- For authentication and realtime database
 2) Google Map Api
